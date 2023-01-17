@@ -32,7 +32,7 @@ from row 2 are “yes”. This makes sense, because a card does NOT have 4 legs 
 fur, but it DOES have four wheels and it DOES have a motor.
 
 The database file should be provided as the first command-line argument to the program. For example, if the
-contents of that file were stored in a file named small.mq then you should run the game with this file like so:
+contents of that file were stored in a file named ```small.mq``` then you should run the game with this file like so:
 ```
 $ ./game small.mq
 ```
